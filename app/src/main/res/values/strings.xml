@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Finances</string>
+    <string name="cancel">Cancel</string>
+    <string name="interest_rate">Interest Rate:</string>
+    <string name="payment_amount">Payment Amount:</string>
+    <string name="initial_balance">Initial Balance:</string>
+    <string name="current_balance">Current Balance:</string>
+    <string name="account_type">Account Type:</string>
+    <string name="account_number">Account Number:</string>
+    <string name="save">Save</string>
+    <string name="cds">CDs</string>
+    <string name="loans">Loans</string>
+    <string name="checking_accounts">Checking Accounts</string>
+</resources>
